@@ -6,7 +6,7 @@ Parche que traduce todos los textos del juego al español y lo hace compatible c
 
 - **Textos (strings):** Todos los diálogos historia (subtítulos), menús, tutoriales y opciones traducidos al español.
 - **Texturas:** Textos del menú principal que vienen como imagen, también traducidos.
-- **Compatibilidad Xbox 360:** Incluye el mod de retrocompatibilidad hecho por **Cristian**, para poder ejecutarlo en una 360 con Aurora / FSD.
+- **Compatibilidad Xbox 360:** Incluye el mod de retrocompatibilidad compartido por **Cristian**, para poder ejecutarlo en una 360 con Aurora / FSD.
 
 > **IMPORTANTE:** Este parche (.ZARF) NO contiene ningún archivo del juego original. Solo contiene mis ediciones hex y las de Cristian. Necesitas tu propia copia original del juego.
 
@@ -33,6 +33,8 @@ Parche que traduce todos los textos del juego al español y lo hace compatible c
 
 - **Mod de compatibilidad Xbox 360:** Cristian.
 - **Traducción y parcheador ZARF:** ZARF
+
+- **Agradecimientos especiales a No_Refrigerator9845 quien investigó, documentó y compartió públicamente los bytes clave para lograr ejecutar el juego por retrocompatibilidad en Xbox 360**
 
 ### Licencia
 
